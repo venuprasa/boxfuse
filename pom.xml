@@ -39,13 +39,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Boxfuse Releases Nexus Repository</name>
-	      <url>http://43.205.196.5:8081/repository/Release/</url>
+	      <url>http://54.198.178.18:8081/repository/mavenwarrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Boxfuse Snapshot Nexus Repository </name>
-	      <url>http://43.205.196.5:8081/repository/snapshot/</url>
+	      <url>http://54.198.178.18:8081/repository/mavenwarsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
